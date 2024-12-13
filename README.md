@@ -6,9 +6,6 @@ git clone https://www.github.com/ghost0x02/xss
 ```
 ```
 cd xss
-```
-```
-ÇALIŞMASI İÇİN ÖRNEK SİTEDE BİR KOD:
 
 ```
 ```
