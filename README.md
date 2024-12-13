@@ -1,4 +1,4 @@
-<a href=<a href="https://hizliresim.com/2f0ixhf"><img src="https://i.hizliresim.com/2f0ixhf.jpg" alt="Resim Yükle"></a>
+<a href="https://hizliresim.com/2f0ixhf"><img src="https://i.hizliresim.com/2f0ixhf.jpg" alt="Resim Yükle"></a>
 ## XSS attack 1.1v KURULUMU İÇİN:
 
 ```
